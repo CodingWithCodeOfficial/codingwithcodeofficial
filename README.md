@@ -35,5 +35,6 @@ I am a developer with a strong interest in computer science, artificial intellig
 ---
 
 ## Notes
-This portfolio is actively evolving as new skills are developed and existing ones are refined.  
-Repositories may vary in scope, complexity, and experimental depth.
+ - This portfolio is actively evolving as new skills are developed.  
+ - Repositories may vary in scope, complexity, and experimental depth.
+ - This README.md is a very bare-bones version, more revisions will be made soon.
