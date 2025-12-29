@@ -1,4 +1,4 @@
-# 👋 Prime Coder
+# 👋 Shanmuka Gottimukkala
 
 Welcome to my GitHub portfolio.  
 This space highlights my interests, technical strengths, and approach to building software with clarity, efficiency, and purpose.
